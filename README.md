@@ -20,6 +20,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-
+site : https://pokemon-pokedex-proyect.netlify.app/
 
 prox version => hacer responsive mobile
